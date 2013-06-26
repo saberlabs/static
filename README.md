@@ -4,6 +4,6 @@
 
 ## Jasmine
 
-http://firede.github.io/saber-static/jasmine/1.3.1/jasmine.css
-http://firede.github.io/saber-static/jasmine/1.3.1/jasmine.js
-http://firede.github.io/saber-static/jasmine/1.3.1/jasmine-html.js
+* http://firede.github.io/saber-static/jasmine/1.3.1/jasmine.css
+* http://firede.github.io/saber-static/jasmine/1.3.1/jasmine.js
+* http://firede.github.io/saber-static/jasmine/1.3.1/jasmine-html.js
