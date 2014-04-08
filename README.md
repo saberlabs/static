@@ -15,8 +15,10 @@
 + http://saberlabs.github.io/static/jasmine/2.0.0/jasmine.css
 + http://saberlabs.github.io/static/jasmine/2.0.0/jasmine.js
 + http://saberlabs.github.io/static/jasmine/2.0.0/jasmine-html.js
++ http://saberlabs.github.io/static/jasmine/2.0.0/console.js
 + http://saberlabs.github.io/static/jasmine/2.0.0/boot.js
 + http://saberlabs.github.io/static/jasmine/2.0.0/amd-boot.js
++ http://saberlabs.github.io/static/jasmine/2.0.0/console-reporter.js
 + http://saberlabs.github.io/static/jasmine/2.0.0/jasmine_favicon.png
 
 ### 关于测试Android 2.3
