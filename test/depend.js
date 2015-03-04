@@ -12,7 +12,7 @@ function getDependencies(path) {
     }
 
     var info = JSON.parse(fs.readFileSync(file, 'utf-8'));
-    return info.dependencies || {};
+    return info.edp ? info.edp.dependencies : info.dependencies || {};
 }
 
 function combineDependencies(indexList, source, target) {
